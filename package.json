@@ -1,0 +1,23 @@
+{
+  "name": "learning-jasmine",
+  "version": "0.0.0",
+  "description": "",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Code-by-practice/learning-jasmine.git"
+  },
+  "keywords": [
+    "jasmine",
+    "unit-testing",
+    "behavior-driven"
+  ],
+  "author": "Ashwin Hegde",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Code-by-practice/learning-jasmine/issues"
+  },
+  "homepage": "https://github.com/Code-by-practice/learning-jasmine#readme",
+  "devDependencies": {
+    "jasmine": "^2.4.1"
+  }
+}
